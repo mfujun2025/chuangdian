@@ -129,7 +129,7 @@ tbody tr:nth-child(even){background:var(--bg-soft)}
   .nav-links.open{display:flex}
   .nav-links a{padding:12px 0;border-bottom:1px solid var(--border);width:100%}
   .nav-parent{padding:12px 0;border-bottom:1px solid var(--border);width:100%}
-  .has-dropdown > .dropdown{position:static;box-shadow:none;border:0;border-radius:0;padding:0 0 0 14px;min-width:0;max-height:none;overflow:visible;margin:0}
+  .has-dropdown > .dropdown{position:static;display:flex;box-shadow:none;border:0;border-radius:0;padding:0 0 0 14px;min-width:0;max-height:none;overflow:visible;margin:0}
   .has-dropdown > .dropdown a{padding:10px 0;border-bottom:1px solid var(--border)}
   .nav-toggle{display:block}
   .hero h1{font-size:27px}
